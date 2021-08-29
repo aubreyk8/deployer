@@ -1,2 +1,2 @@
 # Deployer
-Deploy er for Laravel Project
+Deployer for Laravel Project

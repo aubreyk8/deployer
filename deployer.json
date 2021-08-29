@@ -1,0 +1,6 @@
+{
+    "type": "laravel",
+    "optimize": true,
+    "horizon": true,
+    "migrate": true
+}
